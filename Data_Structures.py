@@ -1,4 +1,4 @@
-fruit = 'Banana'  #this is from a long txt file titled "m-box"
+fruit = 'Banana'  #these lines of codes parses through texts to count the word "banana"
 length = len(fruit)
 last = fruit[length - 1]
 print(last)
